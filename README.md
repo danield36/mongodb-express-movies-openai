@@ -1,20 +1,20 @@
-![mongdb_express_Movies_api_using_openai](https://socialify.git.ci/walidbosso/mongdb_express_Movies_api_using_openai/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+![mongodb-express-movies-openai](https://socialify.git.ci/danield36/mongodb-express-movies-openai/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
 
 <p align="center">
-<a href="https://github.com/walidbosso/mongdb_express_Movies_api_using_openai">
+<a href="https://github.com/danield36/mongodb-express-movies-openai">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
 </p>
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/mongdb_express_Movies_api_using_openai)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danield36&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/danield36/mongodb-express-movies-openai)
 
   <p align="center">
-<a href="https://github.com/walidbosso/mongdb_express_Movies_api_using_openai">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2Fmongdb_express_Movies_api_using_openai&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
+<a href="https://github.com/danield36/mongodb-express-movies-openai">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdanield36%2Fmongodb-express-movies-openai&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
 </p>
 
-<a href="https://github.com/walidbosso/mongdb_express_Movies_api_using_openai">
+<a href="https://github.com/danield36/mongodb-express-movies-openai">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
   <a/>
 </a>
@@ -107,10 +107,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   
-----------------------
-> >  <br/> &copy; *by Walid BOUSSOU*   🇲🇦 😄 <br/>  
-----------------------
-
 <details>
 
 <summary>👏 Thanks for the support </summary>
@@ -120,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![Stargazers repo roster for @walidbosso/mongdb_express_Movies_api_using_openai](http://reporoster.com/stars/dark/walidbosso/mongdb_express_Movies_api_using_openai)](https://github.com/walidbosso/mongdb_express_Movies_api_using_openai/stargazers)
+[![Stargazers repo roster for @danield36/mongodb-express-movies-openai](http://reporoster.com/stars/dark/danield36/mongodb-express-movies-openai)](https://github.com/danield36/mongodb-express-movies-openai/stargazers)
 
 
 
@@ -130,14 +126,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center" >
 
-[![Forkers repo roster for @walidbosso/mongdb_express_Movies_api_using_openai](http://reporoster.com/forks/dark/walidbosso/mongdb_express_Movies_api_using_openai)](https://github.com/walidbosso/mongdb_express_Movies_api_using_openai/network/members)
+[![Forkers repo roster for @danield36/mongodb-express-movies-openai](http://reporoster.com/forks/dark/danield36/mongodb-express-movies-openai)](https://github.com/danield36/mongodb-express-movies-openai/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/mongdb_express_Movies_api_using_openai"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://contrib.rocks/image?repo=danield36/mongodb-express-movies-openai"/>
 </a>
 
 
@@ -146,12 +142,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/mongdb_express_Movies_api_using_openai?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/danield36/mongodb-express-movies-openai?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/mongdb_express_Movies_api_using_openai?style=social)
+![GitHub License](https://img.shields.io/github/license/danield36/mongodb-express-movies-openai?style=social)
 
 
 
@@ -159,20 +155,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 
  <p align="center">
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="https://www.buymeacoffee.com/danield36"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=danield36&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 
 
-<a href = "https://github.com/walidbosso">
+<a href = "https://github.com/danield36">
   <img src = "light.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
+<a href = "https://github.com/danield36">
   <img src = "75lf.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
+<a href = "https://github.com/danield36">
   <img src = "light.gif" width="100%"/>
 </a>
 
